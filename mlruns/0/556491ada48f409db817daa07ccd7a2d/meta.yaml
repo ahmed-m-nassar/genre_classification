@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/amnassar/Desktop/exercises/exercise_14/starter/mlruns/0/556491ada48f409db817daa07ccd7a2d/artifacts
+end_time: 1703068578724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 556491ada48f409db817daa07ccd7a2d
+run_name: selective-doe-406
+run_uuid: 556491ada48f409db817daa07ccd7a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703068562726
+status: 4
+tags: []
+user_id: nassar

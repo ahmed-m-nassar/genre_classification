@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/amnassar/Desktop/exercises/exercise_14/starter/mlruns/0/7c995fb28d5b4111be7fbad881212a02/artifacts
+end_time: 1703068850840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c995fb28d5b4111be7fbad881212a02
+run_name: industrious-rat-217
+run_uuid: 7c995fb28d5b4111be7fbad881212a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703068841253
+status: 4
+tags: []
+user_id: nassar
